@@ -8,7 +8,7 @@ Outside of this, I am a Freelance Photographer and I love taking portrait photog
 
 I am currently working on an X Clone Project (I still call it Twitter) and writing firmware for the CubeSat, basically a tiny satellite, as a software developer for CalgaryToSpace.
 
-Feel free to check out my projects below! If you have any questions or would like to collaborate, don't hesitate to reach out. My socials are linked below
+Feel free to check out my projects below! If you have any questions or would like to collaborate, don't hesitate to reach out. Lets connect!
 - <a href = "https://www.linkedin.com/in/christopher-kinyua-7590bb219/"> LinkedIn </a>
 
 

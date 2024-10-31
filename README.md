@@ -1,4 +1,4 @@
-# Hi, I'm Chris
+# Hi, I'm Chris 😃👋
 
 I'm a recent Electrical Engineering graduate from the University of Calgary with a deep passion for technology. I am keenly interested in front-end development, Embedded Systems, and AI/ML. 
 
